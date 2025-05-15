@@ -448,10 +448,11 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900">
-              Why Choose CodeAcademy
+              Why Choose SMARTPATH
             </h2>
             <p className="mt-4 text-xl text-gray-600">
-              Everything you need to master coding skills
+              It's a PERSONALIZED LEARNING MANAGEMENT SYSTEM Everything you need
+              to master Computer Science skills
             </p>
           </div>
 
